@@ -1,4 +1,4 @@
-# references
+# References
 
 This document keeps a list of interesting papers and other resources relating to insurance research.
 
