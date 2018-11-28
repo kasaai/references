@@ -7,6 +7,7 @@ Contributions are welcome and needed!
 ### General
 
 - **Actuarial Data Science**, an initiative of the Swiss Institute of Actuaries [[link]](https://actuarialdatascience.org/) [[github]](https://github.com/JSchelldorfer/ActuarialDataScience)
+- **Markus Gesmann's Blog** [[link]](https://magesblog.com/archive/)
 - **AI in Actuarial Science** (2018), R. Richman [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3218082)
 
 ## P&C
