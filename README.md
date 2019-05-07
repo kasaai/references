@@ -14,6 +14,13 @@ Contributions are welcome and needed!
 
 - **Neural Network Embedding of the Over-Dispersed Poisson Reserving Model** (2018), A. Gabrielli et al. [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3288454)
 
+### P&C Reserving
+[Morris - Hierarchical Compartmental Models for Loss Reserving](https://www.casact.org/pubs/forum/16sforum/Morris.pdf)
+
+[Bardis et al - Manually Adjustable Link Ratio Model for Reserving ](https://www.casact.org/pubs/forum/08fforum/1Bardis_Majidi_Murphy.pdf)
+
+[Barnett and Zehnwirth - Best Estimate for Reserves](https://www.casact.org/library/00pcas/barnett.pdf)
+
 ## Life Insurance
 
 - **A Neural Network Extension of the Lee-Carter Model to Multiple Populations** (2018), R. Richman and M.V. Wuthrich [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3270877)
